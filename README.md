@@ -20,7 +20,7 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/agave_17268885166750/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
  
 ## Data Structure & Initial Checks
-The data used was taken from the open data at the Agro-alimentary and Fishing Information Service (SIAP) website. The data was distributed along 44 tables, one for each year from 1980 to 2023, containing data for all farming produce, not only Agave. 
+The data used was taken from the open data at the Agro-alimentary and Fishing Information Service (SIAP) [website](http://infosiap.siap.gob.mx/gobmx/datosAbiertos_a.php). The data was distributed along 44 tables, one for each year from 1980 to 2023, containing data for all farming produce, not only Agave. 
 The tables follow 2 different formats that were later consolidated into a single file in SQL, keeping only the data for agave cultivation that was relevant for the analysis. 
 ![tables](https://github.com/user-attachments/assets/b136cd35-f2aa-448a-8ffa-7b676ef294cf)
 
