@@ -1,7 +1,7 @@
 # Where did all the Agave go?
 A data Analysis on the cultivation of agave in Jalisco
 
-By Raquel Flores   raquelflores.m at gmail.com
+By Raquel Flores   *raquelflores.m at gmail.com*
 ## Project Background
 Agave is the plant family from which both Tequila and Mezcal are produced. While any type of Agave will be used for producing Mezcal, Tequila is made from Agave Tequilana Weber only, which is grown exclusively in the states of Jalisco, Guanajuato, Michoacán, Nayarit and Tamaulipas. This Analysis will center in Jalisco from 1986 to 2023.
 
