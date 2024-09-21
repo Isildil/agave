@@ -1,9 +1,12 @@
 # Where did all the Agave go?
 A data Analysis on the cultivation of agave in Jalisco
-By Raquel Flores   raquelflores.m@gmail.com
+
+By Raquel Flores   raquelflores.m at gmail.com
 ## Project Background
 Agave is the plant family from which both Tequila and Mezcal are produced. While any type of Agave will be used for producing Mezcal, Tequila is made from Agave Tequilana Weber only, which is grown exclusively in the states of Jalisco, Guanajuato, Michoacán, Nayarit and Tamaulipas. This Analysis will center in Jalisco from 1986 to 2023.
+
 Agave was traditionally harvested 8 to 10 years after being planted, just as it started its flowering process. This lapse of time has made it hard to calculate how much to plant each year to meet demand and as a result, the growing times have decreased along with the average yield (ton per hectare) and the average weight per agave plant.
+
 Insights and recommendations are provided on the following key areas:
 
 **A.	Price and harvest:** Evaluation of historical harvest patterns in Jalisco, Guanajuato and the relationship between the number of hectares harvested and the price per ton of Agave in Jalisco.
@@ -11,19 +14,26 @@ Insights and recommendations are provided on the following key areas:
 **B.	Loss of hectares planted:** An analysis of the loss of hectares planted with agave and the regions most affected.
 
 **C.	The changes in yield:** An assessment of the changes in yield (tons per hectare) over time and average weight per plant.
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
-An interactive Tableau dashboard used to report and explore sales trends can be found here.
+
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/Isildil/agave/blob/main/consolidating.sql).
+
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/agave_17268885166750/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
  
 ## Data Structure & Initial Checks
 The data used was taken from the open data at the Agro-alimentary and Fishing Information Service (SIAP) website. The data was distributed along 44 tables, one for each year from 1980 to 2023, containing data for all farming produce, not only Agave. 
 The tables follow 2 different formats that were later consolidated into a single file in SQL, keeping only the data for agave cultivation that was relevant for the analysis. 
+![tables](https://github.com/user-attachments/assets/b136cd35-f2aa-448a-8ffa-7b676ef294cf)
+
 Units for Planted, Harvested and Lost are in Hectares (Ha.)
+
 Units for production are in Tons
+
 Units for Yield are in Tons/Ha
+
 Price and value_production are in Mexican Pesos
 
 ## Executive Summary
-# Overview of Findings
+### Overview of Findings
 Following the growth of popularity of Tequila, prices per ton of agave keep going up and years with harvest deficit keep happening. Farmers have difficulties meeting the demand for Agave despite an increase in the hectares planted with it. This difficulty can be attributed to an average lower yield and a lower average weight per plant of Agave, as well as huge losses of hectares planted with agave. The following sections will explore the farming practices of Agave Tequilana Weber from 1986 to 2023 and highlight avenues for improvement in Agave production. 
  Below is the Dashboard from Tableau and more data visualizations are included throughout the report. The interactive dashboard can be downloaded here.
 ![dashboard](https://github.com/user-attachments/assets/cecc6c77-e7d1-461d-ab0f-1c55c88206a8)
