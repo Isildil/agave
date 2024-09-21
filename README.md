@@ -50,11 +50,11 @@ Following the growth of popularity of Tequila, prices per ton of agave keep goin
 **•	Rural price and the number of hectares planted are correlated with the lost hectares.** The municipalities with the most losses are also the ones with the most hectares planted and the price per ton is the highest. 
 
 **•	The 11 municipalities the most affected by loss of hectares planted are grouped in clusters.** They can be divided into 3 regions: East of Guadalajara: Arandas, Jesus Maria, Tepatitlan de Morelos, Atotonilco el Alto, Ayotlan, Acatic and La Barca. West of Guadalajara: Tequila and Amatitlan; South of Guadalajara: San Gabriel and Pihuamo.  
- ![hectares_lost](https://github.com/user-attachments/assets/737f12bc-e229-4c49-bfe4-d971db182efb)
+
 **•	In 2023 alone, farmers from Jalisco lost approximately $10,787,399 pesos** for 119,731 hectares of Agave lost, only surpassed by 2005, with $11,5573,823 pesos in losses.  
 
 **•	Arandas is the Municipality with the most economic losses** averaging at $1,425,840 pesos every year. 
-![yield](https://github.com/user-attachments/assets/bb724567-d470-4b0c-af93-7dd49855fa16)
+ ![hectares_lost](https://github.com/user-attachments/assets/737f12bc-e229-4c49-bfe4-d971db182efb)
 
 ### C.	The changes in yield: 
 
@@ -64,7 +64,7 @@ The average weight per plant has decreased by 15 Kg since 1999, stabilizing at a
 **•	The avg. weight per plant and the avg. yield are directly related except for the years where the loss of hectares was the greatest.** Between 2000 and 2012 there was a significant increase in the lost hectares planted with agave and those years both the avg. yield and the avg. weight per plant become erratic.
 
 **•	The lost hectares follow 3 different patterns:** from 2000 to 2005: heavier plants were lost and this brought the avg. down. From 2006 to 2009 smaller plants were lost, hence the increase in avg. weight per plant. From 2010 to 2012 again, heavier plants were lost and the avg. weight per plant went down. This again suggests theft as the main reason for the loss of these plants, heavier plants being the first targets, then smaller plants
-
+![yield](https://github.com/user-attachments/assets/bb724567-d470-4b0c-af93-7dd49855fa16)
 
 ## Recommendations:
 
