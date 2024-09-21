@@ -22,8 +22,8 @@ Units for production are in Tons
 Units for Yield are in Tons/Ha
 Price and value_production are in Mexican Pesos
 
-## Executive Summary## 
-#Overview of Findings#
+## Executive Summary
+# Overview of Findings
 Following the growth of popularity of Tequila, prices per ton of agave keep going up and years with harvest deficit keep happening. Farmers have difficulties meeting the demand for Agave despite an increase in the hectares planted with it. This difficulty can be attributed to an average lower yield and a lower average weight per plant of Agave, as well as huge losses of hectares planted with agave. The following sections will explore the farming practices of Agave Tequilana Weber from 1986 to 2023 and highlight avenues for improvement in Agave production. 
  Below is the Dashboard from Tableau and more data visualizations are included throughout the report. The interactive dashboard can be downloaded here.
 ![dashboard](https://github.com/user-attachments/assets/cecc6c77-e7d1-461d-ab0f-1c55c88206a8)
