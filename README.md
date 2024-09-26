@@ -17,7 +17,8 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/Isildil/agave/blob/main/consolidating.sql).
 
-An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/agave_17268885166750/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+An interactive Tableau dashboard used to report and explore trends can be found [here] ![dashboard](https://github.com/user-attachments/assets/9090c4db-7141-4b2a-a2fe-47bdee5fc383)
+
  
 ## Data Structure & Initial Checks
 The data used was taken from the open data at the Agro-alimentary and Fishing Information Service (SIAP) [website](http://infosiap.siap.gob.mx/gobmx/datosAbiertos_a.php). The data was distributed along 44 tables, one for each year from 1980 to 2023, containing data for all farming produce, not only Agave. 
