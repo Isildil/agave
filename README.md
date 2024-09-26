@@ -36,7 +36,8 @@ Price and value_production are in Mexican Pesos
 ### Overview of Findings
 Following the growth of popularity of Tequila, prices per ton of agave keep going up and years with harvest deficit keep happening. Farmers have difficulties meeting the demand for Agave despite an increase in the hectares planted with it. This difficulty can be attributed to an average lower yield and a lower average weight per plant of Agave, as well as huge losses of hectares planted with agave. The following sections will explore the farming practices of Agave Tequilana Weber from 1986 to 2023 and highlight avenues for improvement in Agave production. 
  Below is the Dashboard from Tableau and more data visualizations are included throughout the report. The interactive dashboard can be downloaded here.
-![dashboard](https://github.com/user-attachments/assets/cecc6c77-e7d1-461d-ab0f-1c55c88206a8)
+![dashboard](https://github.com/user-attachments/assets/4f46812e-9bc7-4807-a2e9-0bb9c360bd16)
+
 
 
 ### A.	Harvest and prices of Agave Tequilana:
@@ -46,10 +47,11 @@ Following the growth of popularity of Tequila, prices per ton of agave keep goin
 
 **•	The production of Agave has had an 18-fold increase since 1988.** In Jalisco, 1,414 hectares of Agave were harvested in 1988 and in 2023, 25,767 hectares. The production of Agave has an erratic growth curve, with big dips and spikes mainly due to the long times of cultivation and the difficulty to estimate how many hectares will be needed to satisfy demand. Years where a surplus of Agave is produced are followed by years with underproduction. 
 
-**•	Periods where the shortage of Agave lasts for 5 or more years are followed by spikes in prices.** In 1994 the harvest reached the highest point up to that year but then the production dropped the next year and until 2003; prices went up from $616 in 1999 to $6,748 in 2000. In 2008 the production of Agave got to a record of 11,807 hectares but then dropped and didn’t recover until 2012; prices increased near three fold from 2013 ($1,239) to 2014( $3,007). 
+**•	Periods where the shortage of Agave lasts for 5 or more years are followed by spikes in prices.** In 1994 the harvest reached the highest point up to that year but then the production dropped the next year and until 2003; prices went up from $616 in 1999 to $6,748 in 2000. In 2008 the production of Agave got to a record of 1,272,074 but then dropped and didn’t recover until 2012; prices increased near threefold from 2013 ($1,239) to 2014($3,007). . 
 
 **•	The avg. price per ton is 6.5 times higher than in 2014** The average price per ton (rural price) in 2023 is $19,749 MXN. The price of Agave has been in an upward trend since 2010.
- ![harvest_price](https://github.com/user-attachments/assets/f998094c-c283-458c-9dfa-37c5e92caf7c)
+![harvest_price](https://github.com/user-attachments/assets/ac99c62b-07ee-4c02-9f31-239e8cfe8ba2)
+
 
 ### B.	Loss of hectares planted: 
 
@@ -57,14 +59,13 @@ Following the growth of popularity of Tequila, prices per ton of agave keep goin
 
 **•	From 1999 to 2008 the number planted hectares increased 5.6 times.** However, 5 years later, from 2004 to 2013, harvest only increased 1.6 times.
 
-**•	Rural price and the number of hectares planted are correlated with the lost hectares.** The municipalities with the most losses are also the ones with the most hectares planted and the price per ton is the highest. 
+**•	Rural price and the number of hectares planted are strongly correlated with the lost hectares.** The municipalities with the most losses are also the ones with the most hectares planted and the price per ton is the highest. 
 
-**•	The 11 municipalities the most affected by loss of hectares planted are grouped in clusters.** They can be divided into 3 regions: East of Guadalajara: Arandas, Jesus Maria, Tepatitlan de Morelos, Atotonilco el Alto, Ayotlan, Acatic and La Barca. West of Guadalajara: Tequila and Amatitlan; South of Guadalajara: San Gabriel and Pihuamo.  
-
-**•	In 2023 alone, farmers from Jalisco lost approximately $10,787,399 pesos** for 119,731 hectares of Agave lost, only surpassed by 2005, with $11,5573,823 pesos in losses.  
+**•	The percentage of lost hectares is in a downward trend for some of the highest-producing Municipalities since 2003. Arandas is down 11.4%**
 
 **•	Arandas is the Municipality with the most economic losses** averaging at $1,425,840 pesos every year. 
- ![hectares_lost](https://github.com/user-attachments/assets/737f12bc-e229-4c49-bfe4-d971db182efb)
+![hectares_lost](https://github.com/user-attachments/assets/884c817c-0d1a-435d-b77e-8adb117b8e0c)
+
 
 ### C.	The changes in yield: 
 
@@ -80,11 +81,10 @@ The average weight per plant has decreased by 15 Kg since 1999, stabilizing at a
 
 Based on the insights and findings above, the following recommendations are provided:
 
-•	The death or theft of hectares planted with agave is most prevalent in areas densely and extensively planted with agave. **It is recommended that a combination of artificial and natural (such as dense greenery) perimeters surround fields every few hectares and adjacent to roads. With special attention to fields with plants weighing above 26Kg in areas inside the perimeter below. This will serve two purposes:**
-   
-   **o	Make the fields less attractive to thieves due to the rough terrain and difficult access to roads.** 
-  
-   **o	Introduce biodiversity that will act as buffer zones to avoid the spread of pests and diseases. Consult with experts to find species that attract natural predators to the pests.**
+•	The death or theft of hectares planted with agave is most prevalent in areas densely and extensively planted with agave. **It is recommended that a combination of artificial and natural (such as dense greenery) perimeters surround fields every few hectares and adjacent to roads. With special attention to fields inside the perimeter below. This will serve two purposes:**
+     **o	Introduce biodiversity that will act as buffer zones to avoid the spread of pests and diseases.**
+     **o	Extend and conserve the natural habitat of the natural enemies of pests like Picudo del Agave such as beetles that eat larvae (genus Hololepta) which live in areas with dead vegetation.**
+
 ![perimetro](https://github.com/user-attachments/assets/e8cf93e0-2c1e-492e-9745-d1a348101781)
 
 •	The yield has gone down since the 1980s and it is correlated with the early harvesting of agave. **Investing in a study to find the growth rate of Agave Tequilana Weber could bring insight into the ideal point in the growth curve where to harvest the plant for the best yield.**
@@ -97,7 +97,7 @@ Based on the insights and findings above, the following recommendations are prov
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-•	The 0 lost hectares reported is an error or mistake in recollecting the data
+•	The 0 lost hectares reported is an error or mistake in recollecting the data, the data used for the lost hectares was obtained by subtracting the Harvested hectares to the Planted Hectares.
 
 •	All data for Agave is related to the species of Agave Tequilana Weber
 
