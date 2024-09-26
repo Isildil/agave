@@ -81,9 +81,10 @@ The average weight per plant has decreased by 15 Kg since 1999, stabilizing at a
 
 Based on the insights and findings above, the following recommendations are provided:
 
-•	The death or theft of hectares planted with agave is most prevalent in areas densely and extensively planted with agave. **It is recommended that a combination of artificial and natural (such as dense greenery) perimeters surround fields every few hectares and adjacent to roads. With special attention to fields inside the perimeter below. This will serve two purposes:**
-     **o	Introduce biodiversity that will act as buffer zones to avoid the spread of pests and diseases.**
-     **o	Extend and conserve the natural habitat of the natural enemies of pests like Picudo del Agave such as beetles that eat larvae (genus Hololepta) which live in areas with dead vegetation.**
+•	The death of hectares planted with agave is most prevalent in areas densely and extensively planted with agave. **It is recommended that perimeters of native plants surround fields every few hectares and adjacent to roads.** With special attention to fields inside the perimeter below. This will serve two purposes: 
+     **o	Introducing biodiversity that will act as buffer zones to avoid the spread of pests and diseases.** 
+     **o	Extending and conserving the natural habitat of the natural enemies of pests** like Picudo del Agave such as beetles that eat larvae (genus Hololepta) which live in areas with dead vegetation.
+
 
 ![perimetro](https://github.com/user-attachments/assets/e8cf93e0-2c1e-492e-9745-d1a348101781)
 
